@@ -1,0 +1,7 @@
+document_id,text,label
+D001,The invoice payment is overdue,finance
+D002,Investigate the data pipeline schema,engineering
+D003,Support ticket needs resolution,support
+D004,Invoice and ledger reconciliation,finance
+D005,New deployment database schema,engineering
+D006,Customer incident support ticket,support
